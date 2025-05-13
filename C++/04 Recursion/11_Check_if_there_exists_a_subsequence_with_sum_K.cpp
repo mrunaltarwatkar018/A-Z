@@ -5,7 +5,6 @@
         GFG link: https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1
 */
 
-
 /*
         Problem : Check if there exists a subsequence with sum K  
         Link: https://takeuforward.org/plus/dsa/problems/check-if-there-exists-a-subsequence-with-sum-k
