@@ -31,6 +31,10 @@
 using namespace std;
 
 int printS(int idx, int s, int sum, int arr[], int n) {
+    // condition not satisfied
+    // strictly done if array contains positives only
+    if (s > sum) return 0; 
+
     if (idx == n) {
         // condition satisfied
         if (s == sum) return 1; 
